@@ -1,0 +1,103 @@
+{
+  "project_info": {
+    "project_number": "270261376319",
+    "project_id": "sialapp",
+    "storage_bucket": "sialapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270261376319:android:d776b21d944a63e3e36f8a",
+        "android_client_info": {
+          "package_name": "com.scarlet.airsial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHc2HCNuaiLD62p1YMAN5E6pZfvyS2rw"
+        },
+        {
+          "current_key": "AIzaSyAHEdMR65-0GLfPYdcR2nnrFoVgIgKgRHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270261376319-2vtmsd383avg8oggjuj3jcrhndtd5jnu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sialCorpAffairs.sial",
+                "app_store_id": "https://apps.apple.com/us/app/sial-corp-affairs/id6475634027"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270261376319:android:875b0dda1bc19af2e36f8a",
+        "android_client_info": {
+          "package_name": "com.sialkot.sial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHc2HCNuaiLD62p1YMAN5E6pZfvyS2rw"
+        },
+        {
+          "current_key": "AIzaSyAHEdMR65-0GLfPYdcR2nnrFoVgIgKgRHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270261376319-2vtmsd383avg8oggjuj3jcrhndtd5jnu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sialCorpAffairs.sial",
+                "app_store_id": "https://apps.apple.com/us/app/sial-corp-affairs/id6475634027"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270261376319:android:82a5757a96516dafe36f8a",
+        "android_client_info": {
+          "package_name": "com.sialkotMedical.smcl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHc2HCNuaiLD62p1YMAN5E6pZfvyS2rw"
+        },
+        {
+          "current_key": "AIzaSyAHEdMR65-0GLfPYdcR2nnrFoVgIgKgRHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270261376319-2vtmsd383avg8oggjuj3jcrhndtd5jnu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sialCorpAffairs.sial",
+                "app_store_id": "https://apps.apple.com/us/app/sial-corp-affairs/id6475634027"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
